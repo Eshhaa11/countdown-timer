@@ -2,10 +2,10 @@ import { useState, useEffect, use } from "react";
 import './Timer.css';
 
 function Timer ({ initialTime }) {
-    const [countdown, setCountDown] = useState(initialTime)
+    const [time, setTime] = useState(initialTime)
 
     useEffect(() => {
-        if (time <= 0) return;
+        if ( time <= 0) return;
     }
 )
 
