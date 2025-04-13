@@ -24,7 +24,7 @@ function Timer ({ initialTime }) {
             const m = mins < 10 ? '0' + mins : mins;
             const s = secs < 10 ? '0' + secs : secs;
             return `${h}:${m}:${s}`;
-         }
+         };
 
 
     return (
