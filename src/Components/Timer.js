@@ -11,10 +11,11 @@ function Timer ({ initialTime }) {
          setTime( t => t -1); 
         }, 1000);
 
-        return () => clearInterval(timer);
-    )
-    }
-)
+     
+         return () => clearInterval(timer);
+         }, [time]);
+    
+
 
     return (
         <div>
