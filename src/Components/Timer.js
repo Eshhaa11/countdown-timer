@@ -22,6 +22,7 @@ function Timer ({ initialTime }) {
 
             const h = hours < 10 ? '0' + hours : hours;
             const m = mins < 10 ? '0' + mins : mins;
+            const s = secs < 10 ? '0' + secs : secs;
          }
 
 
