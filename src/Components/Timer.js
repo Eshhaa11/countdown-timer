@@ -1,7 +1,7 @@
 import { use, useState } from "react";
 import './Timer.css';
 
-function Timer () {
+function Timer ({ initialTime }) {
 
     const [countdown, setCountDown] = useState(null)
     return (
