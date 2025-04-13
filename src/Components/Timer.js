@@ -30,11 +30,8 @@ function Timer ({ initialTime }) {
     return (
         <div className="timer">
             {format(time)}
-
-
         </div>
-    )
-
+    );
 }
 
 export default Timer;
