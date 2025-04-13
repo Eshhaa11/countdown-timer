@@ -6,7 +6,8 @@ body {
     font-size: 80px;
     font-family: monospace;
     color: #ffffff;
-   text-align: center;
-   margin-top: 20px;
-   border: 1px solid white;
+    width: 600px;
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid white;
 }
