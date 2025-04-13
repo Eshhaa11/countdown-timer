@@ -8,8 +8,8 @@ function Timer ({ initialTime }) {
         if ( time <= 0) return;
 
         const timer = setInterval(() => {
-            
-        }
+         setTime( t => t -1); 
+        }, 1000);
     )
     }
 )
