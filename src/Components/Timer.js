@@ -28,7 +28,7 @@ function Timer ({ initialTime }) {
 
 
     return (
-        <div>
+        <div className="timer">
 
 
         </div>
