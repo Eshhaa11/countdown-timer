@@ -21,6 +21,7 @@ function Timer ({ initialTime }) {
             const secs = seconds % 60;
 
             const h = hours < 10 ? '0' + hours : hours;
+            const m = mins < 10 ? '0' + mins : mins;
          }
 
 
