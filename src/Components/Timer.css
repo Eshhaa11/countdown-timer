@@ -6,5 +6,6 @@ body {
     text-align: center;
     justify-content: center;
     display: flex;
+    top: -80px;
     
 }
