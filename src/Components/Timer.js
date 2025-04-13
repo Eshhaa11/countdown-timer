@@ -15,6 +15,9 @@ function Timer ({ initialTime }) {
          return () => clearInterval(timer);
          }, [time]);
     
+         const format = (seconds) => {
+            
+         }
 
 
     return (
