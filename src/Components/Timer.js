@@ -6,6 +6,11 @@ function Timer ({ initialTime }) {
 
     useEffect(() => {
         if ( time <= 0) return;
+
+        const timer = setInterval(() => {
+            
+        }
+    )
     }
 )
 
