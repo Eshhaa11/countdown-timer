@@ -13,4 +13,5 @@ body {
     border: 1px solid white;
     background-color: black;
     position: relative;
+    left: 500px;
 }
