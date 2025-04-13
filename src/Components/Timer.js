@@ -3,7 +3,7 @@ import './Timer.css';
 
 function Timer ({ initialTime }) {
 
-    const [countdown, setCountDown] = useState(null)
+    const [countdown, setCountDown] = useState(initialTime)
     return (
         <div>
 
