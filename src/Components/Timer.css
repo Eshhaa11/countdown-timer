@@ -3,13 +3,9 @@ body {
 }
 
 .timer {
-    width: 100px;
-    text-align: center;
-    justify-content: center;
-    display: flex;
-    position: relative;
-    top: 200px;
-    color: whitesmoke;
-    border: 1px solid white;
-    
+    font-size: 100px;
+    font-family: monospace;
+  color: #222;
+  text-align: center;
+  margin-top: 20px;
 }
