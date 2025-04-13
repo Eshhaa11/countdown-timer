@@ -15,6 +15,6 @@ body {
     position: relative;
     left: 500px;
     border-radius: 10px;
-    box-shadow:  0 8px 30px rgba(255, 255, 255, 0.5); 
+    box-shadow:  0 8px 30px whitesmoke; 
     transition: box-shadow 0.3s ease;;
 }
