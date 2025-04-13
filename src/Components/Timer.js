@@ -16,7 +16,7 @@ function Timer ({ initialTime }) {
          }, [time]);
     
          const format = (seconds) => {
-            
+            const hours = Math.floor(seconds / 3600);
          }
 
 
