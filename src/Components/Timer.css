@@ -1,5 +1,10 @@
+body {
+    background-color:darkslategrey;
+}
+
 .timer {
     text-align: center;
     justify-content: center;
-   display: flex;
+    display: flex;
+    
 }
