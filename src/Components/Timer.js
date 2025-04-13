@@ -10,6 +10,8 @@ function Timer ({ initialTime }) {
         const timer = setInterval(() => {
          setTime( t => t -1); 
         }, 1000);
+
+        return () => clearInterval(timer);
     )
     }
 )
