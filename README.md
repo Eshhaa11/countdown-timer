@@ -1,4 +1,6 @@
-# ⏳ Countdown Timer
+ ![App Screenshot](src/assets/countdown.jpg)
+ 
+ # ⏳ Countdown Timer
 
 A simple **React** application that shows a countdown timer in the **HH:MM:SS** format, allowing users to set a time duration and see it countdown in real-time.
 
